@@ -5,10 +5,43 @@
 [GitHub](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 
 
-# Herramientas
+# Procedimiento
 
 ## Fase 1
 
-[Hunter](https://hunter.io/)
+### Buscar credenciales
 
-[Lista de credenciales](https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis)
+ * [Hunter](https://hunter.io/)
+
+ * [Lista de credenciales](https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis)
+
+ * TheHarvester
+
+### Buscar dominios
+
+ * Buscar por DNS
+
+	 * dnsenum (fuerza bruta)
+
+### Analizar web
+
+ * [builtwith](https://builtwith.com/) (indirecto)
+
+ * Wappalyzer
+
+ * whatweb (fuerza bruta)
+
+## Fase 2
+
+### Escaneo de puertos
+
+#### NMap
+
+##### Opciones útiles
+
+	
+
+ * **-sn**: ping scan. Sin puertos
+
+ * **-T<0-5>**: Tiempo (más alto: más rápido). Más rapido: menos fiable, más ruidoso
+
