@@ -1,8 +1,6 @@
-# Links
+# Herramientas
 
-[YouTube](https://www.youtube.com/watch?v=WnN6dbos5u8&list=WL&index=13&t=1s&ab_channel=TheCyberMentor)
-
-[GitHub](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
+[osintframework](https://osintframework.com/)
 
 
 # Procedimiento
@@ -39,9 +37,13 @@
 
 ##### Opciones útiles
 
-	
-
  * **-sn**: ping scan. Sin puertos
 
  * **-T<0-5>**: Tiempo (más alto: más rápido). Más rapido: menos fiable, más ruidoso
 
+
+# Links
+
+[YouTube](https://www.youtube.com/watch?v=WnN6dbos5u8&list=WL&index=13&t=1s&ab_channel=TheCyberMentor)
+
+[GitHub](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
